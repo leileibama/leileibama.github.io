@@ -20,9 +20,9 @@ My publications appeared in journals such as _Applied Linguistics_, _Journal of 
 
 ## October 2021
 
-**Article published in Lingua**
+**Article published in _Lingua_**
 
-Shi, Yaqian, & Lei, Lei*. 2021. Lexical use and social class: A study from the perspectives of lexical richness, word length, and word class. _Lingua_,262, 103155, https://doi.org/10.1016/j.lingua.2021.103155 (SSCI)
+Shi, Yaqian, & Lei, Lei*. 2021. Lexical use and social class: A study from the perspectives of lexical richness, word length, and word class. _Lingua_, 262, 103155, 1-14. https://doi.org/10.1016/j.lingua.2021.103155 (SSCI)
 
 **Abstract**
 
@@ -30,7 +30,7 @@ Lexical use is an important indicator of an individual’s social class, and pre
 
 ## Auguest 2021
 
-**Article published in Applied Linguistics**
+**Article published in _Applied Linguistics_**
 
 Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A large-scale diachronic study in life sciences across 50 years. _Applied Linguistics_, 1-25. https://doi.org/10.1093/applin/amab037
 
