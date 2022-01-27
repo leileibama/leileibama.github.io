@@ -268,6 +268,32 @@ Lei, Lei. 2012. Review of Quantitative Linguistic Computing with Perl. Literary 
 韦瑶瑜，雷蕾，2004. 中国英语学习者使用SIB材料的调查报告，外语电化教学，第2期。(CSSCI)
 
 
+# My tools
+
+## LeoColloSharp
+
+A tool to search collocates.
+
+LeoColloSharp helps you consult the most commonly used collocates of nouns and verbs, and hence helps make your writing more idiomatic.
+
+https://github.com/leileibama/LeoColloSharp
+
+
+## leoDDcalculator
+
+A package calculating the values of mdd and ndd of texts in a folder
+
+https://github.com/leileibama/leoDDcalculator
+
+
+## leolemmatizer
+
+A package that postags and lemmatizes English texts in a folder
+
+https://github.com/leileibama/leolemmatizer
+
+
+
 # Contact
 
 My Email address: leileibama &AT& outlook &DOT& com
