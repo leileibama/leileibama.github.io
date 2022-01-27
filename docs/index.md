@@ -1,4 +1,4 @@
-# Homepage of Lei Lei 
+**Homepage of Lei Lei**
 
 ![image](https://user-images.githubusercontent.com/36074445/151327479-b4972925-774d-4955-b825-497ccda9ec05.png)
 
@@ -11,7 +11,7 @@ Hi, I am Lei Lei (雷蕾). I am Professor of Applied Linguistics at the Departme
 
 I obtained my PhD in Applied Linguistics from SJTU in 2010, my MA in Applied Linguistics from HUST in 2006, and my BA in English from Central China Normal University (CCNU) in 1997. 
 
-My research interest include corpus-driven analyses of second language writing and Academic English, particulary those based on natural language processing techniques. 
+My **research interest** include corpus-driven analyses of second language writing and (academic) English, particulary those based on natural language processing techniques. I am also interested in the use of bibliometric methods for the exploration of scientific literature in various disciplines.
 
 My publications appeared in journals such as _Applied Linguistics_, _Journal of English for Academic Purposes_, _System_, _Lingua_, and _Scientometrics_. I also published books at publishing houses such as Cambridge University Press and TESOL Press. 
 
