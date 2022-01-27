@@ -39,6 +39,9 @@ Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A l
 Recent studies found linguistic positivity bias in academic writing, that is, researchers tend to present their works with more positive words than negative ones. The present study aims to examine the issue from a diachronic perspective, and it is probably the first one that employed a mixed method of both a small lexicon analysis and sentiment analysis in this line of research. Specifically, a series of experiments were performed based on a corpus of 775,460 abstracts published between 1969 and 2019 in 123 scientific journals covering 12 research disciplines in life sciences. The results demonstrated a linguistic positivity bias in academic writing. More importantly, a significant upward trend of linguistic positivity bias was observed over the past 5 decades. Major communicative functions of positive and negative sentences are also analysed. Reasons for this linguistic positivity bias are explored from the perspectives of publication pressure/bias, employment of linguistic devices to promote research, and language use for political correctness purposes. Lastly, implications for authors and learners of academic writing and for researchers of sentiment analysis are also discussed.
 
 
+![image](https://user-images.githubusercontent.com/36074445/151353188-7e5a5f4a-c851-4af1-99df-e56c87741f66.png)
+
+
 # Publications
 
 ## Books
