@@ -270,7 +270,7 @@ Lei, Lei. 2012. Review of Quantitative Linguistic Computing with Perl. Literary 
 
 # My tools
 
-## LeoColloSharp
+**LeoColloSharp**
 
 A tool to search collocates.
 
@@ -279,14 +279,14 @@ LeoColloSharp helps you consult the most commonly used collocates of nouns and v
 https://github.com/leileibama/LeoColloSharp
 
 
-## leoDDcalculator
+**leoDDcalculator**
 
 A package calculating the values of mdd and ndd of texts in a folder
 
 https://github.com/leileibama/leoDDcalculator
 
 
-## leolemmatizer
+**leolemmatizer**
 
 A package that postags and lemmatizes English texts in a folder
 
