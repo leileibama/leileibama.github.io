@@ -5,7 +5,6 @@
 
 # Hello
 
-Welcome to my homepage!
 
 Hi, I am Lei Lei (雷蕾). I am Professor of Applied Linguistics at the Department of English, Shanghai Jiao Tong University (SJTU). I joined SJTU in December 2020, and before that I worked as Assistant Professor, Associate Professor, and Professor at Huazhong University of Science and Technology (HUST) from 1997. I also worked as Visiting Scholar at the University of Alabama (2014-2015) and the University of Nebraska, Lincoln (2017).  
 
@@ -41,7 +40,9 @@ Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A l
 Recent studies found linguistic positivity bias in academic writing, that is, researchers tend to present their works with more positive words than negative ones. The present study aims to examine the issue from a diachronic perspective, and it is probably the first one that employed a mixed method of both a small lexicon analysis and sentiment analysis in this line of research. Specifically, a series of experiments were performed based on a corpus of 775,460 abstracts published between 1969 and 2019 in 123 scientific journals covering 12 research disciplines in life sciences. The results demonstrated a linguistic positivity bias in academic writing. More importantly, a significant upward trend of linguistic positivity bias was observed over the past 5 decades. Major communicative functions of positive and negative sentences are also analysed. Reasons for this linguistic positivity bias are explored from the perspectives of publication pressure/bias, employment of linguistic devices to promote research, and language use for political correctness purposes. Lastly, implications for authors and learners of academic writing and for researchers of sentiment analysis are also discussed.
 
 
+
 ![image](https://user-images.githubusercontent.com/36074445/151353188-7e5a5f4a-c851-4af1-99df-e56c87741f66.png)
+
 
 
 # Publications
@@ -60,6 +61,7 @@ This Element provides a basic introduction to sentiment analysis, aimed at helpi
 https://bookstore.tesol.org/using-corpora-for-language-teaching-and-learning-products-9781945351129.php
 
 How can you use corpora in your classroom? With the increasing use of corpora in classrooms, the need to understand how to use corpora in language teaching is essential for today’s teachers. Using ample concrete examples, this book offers a step-by-step hands-on introduction to the use of corpora for teaching a variety of English language skills, such as grammar, vocabulary, and English academic writing. Using Corpora for Language Teaching and Learning offers a detailed discussion of basic essential corpus search and teaching procedures and activities, instructions on how to develop your own corpora for language instruction and research purposes, practical ideas about how to use corpora to develop teaching materials, and an annotated list of useful corpora and corpus tools (online). Gaining familiarity with how to use learner corpora will enable you to have a deeper understanding of your students’ learning and challenges.
+
 
 ## Articles 
 
