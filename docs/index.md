@@ -48,9 +48,18 @@ Recent studies found linguistic positivity bias in academic writing, that is, re
 
 ## Books
 
-Lei, Lei & Liu, Dilin. 2021. _Conducting Sentiment Analysis_. Cambridge: Cambridge University Press.
+**Lei, Lei & Liu, Dilin. 2021. _Conducting Sentiment Analysis_. Cambridge: Cambridge University Press.**
 
-Liu, Dilin & Lei, Lei. 2017. _Using Corpora for Language Learning and Teaching_. Alexandria, VA: TESOL Press.
+https://doi.org/10.1017/9781108909679
+
+This Element provides a basic introduction to sentiment analysis, aimed at helping students and professionals in corpus linguistics to understand what sentiment analysis is, how it is conducted, and where it can be applied. It begins with a definition of sentiment analysis and a discussion of the domains where sentiment analysis is conducted and used the most. Then, it introduces two main methods that are commonly used in sentiment analysis known as supervised machine-learning and unsupervised learning (or lexicon-based) methods, followed by a step-by-step explanation of how to perform sentiment analysis with R. The Element then provides two detailed examples or cases of sentiment and emotion analysis, with one using an unsupervised method and the other using a supervised learning method.
+
+
+**Liu, Dilin & Lei, Lei. 2017. _Using Corpora for Language Learning and Teaching_. Alexandria, VA: TESOL Press.**
+
+https://bookstore.tesol.org/using-corpora-for-language-teaching-and-learning-products-9781945351129.php
+
+How can you use corpora in your classroom? With the increasing use of corpora in classrooms, the need to understand how to use corpora in language teaching is essential for today’s teachers. Using ample concrete examples, this book offers a step-by-step hands-on introduction to the use of corpora for teaching a variety of English language skills, such as grammar, vocabulary, and English academic writing. Using Corpora for Language Teaching and Learning offers a detailed discussion of basic essential corpus search and teaching procedures and activities, instructions on how to develop your own corpora for language instruction and research purposes, practical ideas about how to use corpora to develop teaching materials, and an annotated list of useful corpora and corpus tools (online). Gaining familiarity with how to use learner corpora will enable you to have a deeper understanding of your students’ learning and challenges.
 
 ## Articles 
 
