@@ -207,7 +207,7 @@ Lei, Lei. 2012. Review of Quantitative Linguistic Computing with Perl. Literary 
 
 # Publications in Chinese
 
-## Books
+**Books**
 
 雷蕾. 2020. 基于Python的语料库数据处理. 北京: 科学出版社.
 
@@ -219,7 +219,7 @@ Lei, Lei. 2012. Review of Quantitative Linguistic Computing with Perl. Literary 
 
 雷蕾、洪班信. 2006. 医学英语句子的结构特征. 北京大学医学出版社.
 
-## Articles
+**Articles**
 
 李辛、雷蕾. 2021. 输出任务对英语阅读中词汇附带习得影响的元分析. 解放军外国语学院学报. (CSSCI)
 
