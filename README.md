@@ -1,6 +1,6 @@
 
-## Go to take a look at my hompage:
+## Welcome to the Hompage of Lei Lei
 
-[My Homepage](https://leileibama.github.io/)
+## [My Homepage](https://leileibama.github.io/)
 
-at: https://leileibama.github.io/
+### https://leileibama.github.io/
