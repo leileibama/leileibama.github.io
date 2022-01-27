@@ -24,9 +24,9 @@ My github: https://github.com/leileibama/
 
 ### Books
 
-Lei, Lei & Liu, Dilin. 2021. Conducting Sentiment Analysis. Cambridge: Cambridge University Press.
+Lei, Lei & Liu, Dilin. 2021. _Conducting Sentiment Analysis_. Cambridge: Cambridge University Press.
 
-Liu, Dilin & Lei, Lei. 2017. Using Corpora for Language Learning and Teaching. Alexandria, VA: TESOL Press.
+Liu, Dilin & Lei, Lei. 2017. _Using Corpora for Language Learning and Teaching_. Alexandria, VA: TESOL Press.
 
 ### Books in Chinese
 
@@ -44,108 +44,108 @@ Liu, Dilin & Lei, Lei. 2017. Using Corpora for Language Learning and Teaching. A
 
 #### 2021
 
-Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A large-scale diachronic study in life sciences across 50 years. Applied Linguistics, 1-25. https://doi.org/10.1093/applin/amab037 (SSCI)
+Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A large-scale diachronic study in life sciences across 50 years. _Applied Linguistics_, 1-25. https://doi.org/10.1093/applin/amab037 (SSCI)
 
-Shi, Yaqian, & Lei, Lei*. 2021. Lexical use and social class: A study from the perspectives of lexical richness, word length, and word class. Lingua. (SSCI)
+Shi, Yaqian, & Lei, Lei*. 2021. Lexical use and social class: A study from the perspectives of lexical richness, word length, and word class. _Lingua_. (SSCI)
 
-Zhu, Haoran & Lei, Lei*. 2021, A dependency-based machine learning approach to the identification of research topics: a case in COVID-19 studies, Library Hi Tech, 1-21.  (SSCI)
+Zhu, Haoran & Lei, Lei*. 2021, A dependency-based machine learning approach to the identification of research topics: a case in COVID-19 studies, _Library Hi Tech_, 1-21.  (SSCI)
 
-Liu, Wenjun, & Lei, Lei*. 2021. Retractions in the middle east from 1999 to 2018: a bibliometric analysis. Scientometrics. 1-14. (SSCI)
+Liu, Wenjun, & Lei, Lei*. 2021. Retractions in the middle east from 1999 to 2018: a bibliometric analysis. _Scientometrics_. 1-14. (SSCI)
 
 #### 2020
 
-Lei, Lei, Deng, Yaochen* & Liu, Dilin, 2020. Examining research topics with a dependency-based noun phrase extraction method: a case in accounting. Library Hi Tech. 1-13. 10.1108/LHT-12-2019-0247. (SSCI)
+Lei, Lei, Deng, Yaochen* & Liu, Dilin, 2020. Examining research topics with a dependency-based noun phrase extraction method: a case in accounting. _Library Hi Tech_. 1-13. 10.1108/LHT-12-2019-0247. (SSCI)
 
-Cao, Xiaoke, Lei, Lei* & Wen, Ju. 2020. Promoting science with linguistic devices: A large-scale study of the use of positive and negative words in academic writing. Learned Publishing. 1-7. (SSCI)
+Cao, Xiaoke, Lei, Lei* & Wen, Ju. 2020. Promoting science with linguistic devices: A large-scale study of the use of positive and negative words in academic writing. _Learned Publishing_. 1-7. (SSCI)
 
-Deng, Yaochen, Lei, Lei*, & Liu, Dilin. 2020. Calling for more consistency, refinement, and critical consideration in the use of syntactic complexity measures for writing. Applied Linguistics. 1-9. https://doi.org/10.1093/applin/amz069 (SSCI)
+Deng, Yaochen, Lei, Lei*, & Liu, Dilin. 2020. Calling for more consistency, refinement, and critical consideration in the use of syntactic complexity measures for writing. _Applied Linguistics_. 1-9. https://doi.org/10.1093/applin/amz069 (SSCI)
 
-Lin, Zhong & Lei, Lei*. 2020. The Research Trends of Multilingualism in Applied Linguistics and Education (2000–2019): A Bibliometric Analysis. Sustainability. 1-14. (SSCI)
+Lin, Zhong & Lei, Lei*. 2020. The Research Trends of Multilingualism in Applied Linguistics and Education (2000–2019): A Bibliometric Analysis. _Sustainability_. 1-14. (SSCI)
 
-Wu, Xue*, Mauranen, Anna, & Lei, Lei. 2020. Syntactic complexity in English as a lingua franca academic writing. Journal of English for Academic Purposes, 100798. https://doi.org/10.1016/j.jeap.2019.100798 (SSCI)
+Wu, Xue*, Mauranen, Anna, & Lei, Lei. 2020. Syntactic complexity in English as a lingua franca academic writing. _Journal of English for Academic Purposes_, 100798. https://doi.org/10.1016/j.jeap.2019.100798 (SSCI)
 
-Shi, Yaqian, & Lei, Lei*. 2020. Lexical richness and text length: An entropy-based perspective. Journal of Quantitative Linguistics. 1-18 (SSCI)
+Shi, Yaqian, & Lei, Lei*. 2020. Lexical richness and text length: An entropy-based perspective. _Journal of Quantitative Linguisticsv. 1-18 (SSCI)
 
-Zhu, Haoran, Craig, Hugh*, & Lei Lei. 2020. Prose, verse and authorship in Dream of the Red Chamber: A stylometric analysis. Journal of Quantitative Linguistics. (SSCI)
+Zhu, Haoran, Craig, Hugh*, & Lei Lei. 2020. Prose, verse and authorship in Dream of the Red Chamber: A stylometric analysis. _Journal of Quantitative Linguistics_. (SSCI)
 
-Lei, Lei & Sun, Yunmei*. 2020. Should highly cited items be excluded for impact factor calculation? The effect of review articles on journal impact factor. Scientometrics. 122:1697–1706. (SSCI)
+Lei, Lei & Sun, Yunmei*. 2020. Should highly cited items be excluded for impact factor calculation? The effect of review articles on journal impact factor. _Scientometrics_. 122:1697–1706. (SSCI)
 
-Li, Jing, Lei, Lei*, & Cheng, Le. 2020. Mapping evaluation, appraisal and stance in discourse (2000–2015): A bibliometric analysis. Glottotheory, 10(1-2), 31–55. https://doi.org/10.1515/glot-2019-0002
+Li, Jing, Lei, Lei*, & Cheng, Le. 2020. Mapping evaluation, appraisal and stance in discourse (2000–2015): A bibliometric analysis. _Glottotheory_, 10(1-2), 31–55. https://doi.org/10.1515/glot-2019-0002
 
 #### 2019
 
-Lei, Lei., & Wen, Ju*. 2019. Is dependency distance experiencing a process of minimization? A diachronic study based on the State of the Union addresses. Lingua, S002438411930511X. https://doi.org/10.1016/j.lingua.2019.102762 (SSCI)
+Lei, Lei., & Wen, Ju*. 2019. Is dependency distance experiencing a process of minimization? A diachronic study based on the State of the Union addresses. _Lingua_, S002438411930511X. https://doi.org/10.1016/j.lingua.2019.102762 (SSCI)
 
-Shi, Yaqian, & Lei, Lei*. 2019. The evolution of LGBT labelling words: Tracking 150 years of the interaction of semantics with social and cultural changes. English Today, 1–7. https://doi.org/10.1017/S0266078419000270 (SSCI)
+Shi, Yaqian, & Lei, Lei*. 2019. The evolution of LGBT labelling words: Tracking 150 years of the interaction of semantics with social and cultural changes. _English Today_, 1–7. https://doi.org/10.1017/S0266078419000270 (SSCI)
 
-Li, Xin, & Lei Lei*. 2019. A bibliometric analysis of topic modelling studies (2000–2017). Journal of Information Science. 1-15. https://doi.org/10.1177/0165551519877049 (SSCI)
+Li, Xin, & Lei Lei*. 2019. A bibliometric analysis of topic modelling studies (2000–2017). _Journal of Information Science_. 1-15. https://doi.org/10.1177/0165551519877049 (SSCI)
 
-Lei, Lei, & Liu, Dilin*. 2019. The research trends and contributions of System’s publications over the past four decades (1973–2017): A bibliometric analysis. System. 80:1-13. https://doi.org/10.1016/j.system.2018.10.003 (SSCI)
+Lei, Lei, & Liu, Dilin*. 2019. The research trends and contributions of System’s publications over the past four decades (1973–2017): A bibliometric analysis. _System_. 80:1-13. https://doi.org/10.1016/j.system.2018.10.003 (SSCI)
 
 #### 2018
 
-Wei, Yaoyu, & Lei, Lei*. 2018. Institution bias in the New England Journal of Medicine? A bibliometric analysis of publications (1997-2016). Scientometrics. 117(3):1771–1775. (SSCI)
+Wei, Yaoyu, & Lei, Lei*. 2018. Institution bias in the New England Journal of Medicine? A bibliometric analysis of publications (1997-2016). _Scientometrics_. 117(3):1771–1775. (SSCI)
 
-Zhu, Haoran, & Lei, Lei*. 2018. Is Modern English becoming less inflectionally diversified? Evidence from an entropy-based algorithm. Lingua. 126: 10-27. (SSCI)
+Zhu, Haoran, & Lei, Lei*. 2018. Is Modern English becoming less inflectionally diversified? Evidence from an entropy-based algorithm. _Lingua_. 126: 10-27. (SSCI)
 
-Lei, Lei, & Liu, Dilin*. 2019. Research trends in applied linguistics from 2005 - 2016: A bibliometric analysis and its implications. Applied Linguistics. 40(3):540–561. (SSCI)
+Lei, Lei, & Liu, Dilin*. 2019. Research trends in applied linguistics from 2005 - 2016: A bibliometric analysis and its implications. _Applied Linguistics_. 40(3):540–561. (SSCI)
 
-Lei, Lei, & Liu, Dilin*. 2018. The Academic English Collocation List: A corpus-driven study. International Journal of Corpus Linguistics. 23(2): 216-243. (SSCI)
+Lei, Lei, & Liu, Dilin*. 2018. The Academic English Collocation List: A corpus-driven study. _International Journal of Corpus Linguistics_. 23(2): 216-243. (SSCI)
 
-Liu, Dilin, & Lei, Lei*. 2018. The appeal to political sentiment: An analysis of Donald Trump’s and Hillary Clinton’s speech themes and discourse strategies in the 2016 US presidential election. Discourse, Context & Media. 25: 143-152 (SSCI)
+Liu, Dilin, & Lei, Lei*. 2018. The appeal to political sentiment: An analysis of Donald Trump’s and Hillary Clinton’s speech themes and discourse strategies in the 2016 US presidential election. _Discourse, Context & Media_. 25: 143-152 (SSCI)
 
-Lei, Lei*, & Jockers, Matthew. 2018. Normalized Dependency Distance: Proposing a New Measure. Journal of Quantitative Linguistics. doi.org/10.1080/09296174.2018.1504615. (SSCI)
+Lei, Lei*, & Jockers, Matthew. 2018. Normalized Dependency Distance: Proposing a New Measure. _Journal of Quantitative Linguistics_. doi.org/10.1080/09296174.2018.1504615. (SSCI)
 
-Zhu, Haoran, & Lei, Lei*. 2018. British Cultural Complexity: An Entropy-based Approach. Journal of Quantitative Linguistics. 25(2): 190-205. doi: 10.1080/09296174.2017.1348014 (SSCI)
+Zhu, Haoran, & Lei, Lei*. 2018. British Cultural Complexity: An Entropy-based Approach. _Journal of Quantitative Linguistics_. 25(2): 190-205. doi: 10.1080/09296174.2017.1348014 (SSCI)
 
-Lei, Lei*, & Zhang, Ying. 2018. Lack of Improvement in Scientific Integrity: An Analysis of WoS Retractions by Chinese Researchers (1997–2016). Science and Engineering Ethics. 24(5): 1409-1420. doi:10.1007/s11948-017-9962-7 (SSCI)
+Lei, Lei*, & Zhang, Ying. 2018. Lack of Improvement in Scientific Integrity: An Analysis of WoS Retractions by Chinese Researchers (1997–2016). _Science and Engineering Ethics_. 24(5): 1409-1420. doi:10.1007/s11948-017-9962-7 (SSCI)
 
 #### 2017
 
-Wu, Xue, & Lei, Lei*. 2017. Pragmatic force modifiers in ELF academic discussions. Poznań Studies in Contemporary Linguistics. 53(3): 423–448 (SSCI)
+Wu, Xue, & Lei, Lei*. 2017. Pragmatic force modifiers in ELF academic discussions. _Poznań Studies in Contemporary Linguistics_. 53(3): 423–448 (SSCI)
 
-Liao, Shengyu, & Lei, Lei*. 2017. What we talk about when we talk about corpus: a bibliometric analysis of corpus-related research in linguistics (2000-2015). Glottometrics. 38: 1-20.
+Liao, Shengyu, & Lei, Lei*. 2017. What we talk about when we talk about corpus: a bibliometric analysis of corpus-related research in linguistics (2000-2015). _Glottometrics_. 38: 1-20.
 
-Lei, Lei*, & Liao, Shengyu. 2017. Publications in linguistics journals from Mainland China, Hong Kong, Taiwan, and Macau (2003–2012): A bibliometric analysis. Journal of Quantitative Linguistics. 24(1): 54-64. (SSCI)
+Lei, Lei*, & Liao, Shengyu. 2017. Publications in linguistics journals from Mainland China, Hong Kong, Taiwan, and Macau (2003–2012): A bibliometric analysis. _Journal of Quantitative Linguistics_. 24(1): 54-64. (SSCI)
 
 #### 2016
 
-Lei, Lei*, & Yan, Sheng. 2016. Readability and citations in information science: evidence from abstracts and articles of four journals (2003 - 2012). Scientometrics. 108(3):1155–1169. (SSCI)
+Lei, Lei*, & Yan, Sheng. 2016. Readability and citations in information science: evidence from abstracts and articles of four journals (2003 - 2012). _Scientometrics_. 108(3):1155–1169. (SSCI)
 
-Lei, Lei*. 2016. When science meets cluttered writing: Adjectives and adverbs in academia revisited. Scientometrics. 107(3):1361-1372. (SSCI)
+Lei, Lei*. 2016. When science meets cluttered writing: Adjectives and adverbs in academia revisited. _Scientometrics_. 107(3):1361-1372. (SSCI)
 
-Lei, Lei, & Liu, Dilin*. 2016. A new medical academic word list: A corpus-based study with enhanced methodology. Journal of English for Academic Purposes. 22:42-53. (SSCI)
+Lei, Lei, & Liu, Dilin*. 2016. A new medical academic word list: A corpus-based study with enhanced methodology. _Journal of English for Academic Purposes_. 22:42-53. (SSCI)
 
-Wu, Xue*, & Lei, Lei. 2016. Functions of you know and I mean in academic seminar discussions by ELF speakers. Chinese Journal of Applied Linguistics. 39(3):288-303.
+Wu, Xue*, & Lei, Lei. 2016. Functions of you know and I mean in academic seminar discussions by ELF speakers. _Chinese Journal of Applied Linguistics_. 39(3):288-303.
 
 #### 2007 - 2014
 
-Lei, Lei & Liu, Zehua*. 2014. A word type-based quantitative study on the lexical change of American and British English. Journal of Quantitative Linguistics. 21(1), 36-49. (SSCI)
+Lei, Lei & Liu, Zehua*. 2014. A word type-based quantitative study on the lexical change of American and British English. _Journal of Quantitative Linguistics_. 21(1), 36-49. (SSCI)
 
-Sun, Yazhen*, & Lei, Lei. 2013. Academic lexical items in economics journal papers. Chinese Journal of Applied Linguistics. 36(3):354-367.
+Sun, Yazhen*, & Lei, Lei. 2013. Academic lexical items in economics journal papers. _Chinese Journal of Applied Linguistics_. 36(3):354-367.
 
-Lei, Lei*. 2012. Linking adverbials in academic writing on applied linguistics by Chinese doctoral students. Journal of English for Academic Purposes. 11(3): 267–275. (SSCI)
+Lei, Lei*. 2012. Linking adverbials in academic writing on applied linguistics by Chinese doctoral students. _Journal of English for Academic Purposes_. 11(3): 267–275. (SSCI)
 
-Wei, Yaoyu* & Lei, Lei. 2011. Lexical bundles in the academic writing of advanced Chinese EFL learners. The RELC Journal. 42(2):1-12.
+Wei, Yaoyu* & Lei, Lei. 2011. Lexical bundles in the academic writing of advanced Chinese EFL learners. _The RELC Journal_. 42(2):1-12.
 
-Lei, Lei* & Qin, Xiaoqing. 2009. An empirical study of success and failure attributions of EFL learners at the tertiary level in China. Asian EFL Journal. 11(3):28-50.
+Lei, Lei* & Qin, Xiaoqing. 2009. An empirical study of success and failure attributions of EFL learners at the tertiary level in China. _Asian EFL Journal_. 11(3):28-50.
 
-Lei, Lei*. 2008. Validation of the C-Test amongst Chinese ESL learners. Journal of Asia TEFL. 5(2):117-140.
+Lei, Lei*. 2008. Validation of the C-Test amongst Chinese ESL learners. _Journal of Asia TEFL_. 5(2):117-140.
 
-Lei, Lei*. 2008. Use of idioms in Chinese EFL learners’ spoken English: Evidence from SECCL and COLSEC. Teaching English in China. 31(6): 82-90.
+Lei, Lei*. 2008. Use of idioms in Chinese EFL learners’ spoken English: Evidence from SECCL and COLSEC. _Teaching English in China_. 31(6): 82-90.
 
-Lei, Lei* & Wei, Yao. 2007. An empirical study on writer’s block of Chinese EFL learners at the tertiary level. Teaching English in China. 30(5): 13-18.
+Lei, Lei* & Wei, Yao. 2007. An empirical study on writer’s block of Chinese EFL learners at the tertiary level. _Teaching English in China_. 30(5): 13-18.
 
 
 ### Book chapters
 
-Liu, Dilin & Lei, Lei. 2020. Technical vocabulary. In Webb, Stuart (Ed), The Routledge Handbook of Vocabulary Studies. New York: Routledge
+Liu, Dilin & Lei, Lei. 2020. Technical vocabulary. In Webb, Stuart (Ed), _The Routledge Handbook of Vocabulary Studies_. New York: Routledge
 
-Liu, Dilin & Lei, Lei. 2018. Teaching idiomatic expressions with make, do, have and other common verbs. In J. Liontas (Ed.), TESOL Encyclopedia of English Language Teaching. Oxford, UK/Hoboken, NJ: Wiley-Blackwell
+Liu, Dilin & Lei, Lei. 2018. Teaching idiomatic expressions with make, do, have and other common verbs. In J. Liontas (Ed.), _TESOL Encyclopedia of English Language Teaching_. Oxford, UK/Hoboken, NJ: Wiley-Blackwell
 
-Liu, Dilin & Lei, Lei. 2018. Teaching location in time and other metaphorical senses.  In J. Liontas (Ed), TESOL Encyclopedia of English Language Teaching. Oxford, UK/Hoboken, NJ: Wiley-Blackwell
+Liu, Dilin & Lei, Lei. 2018. Teaching location in time and other metaphorical senses.  In J. Liontas (Ed), _TESOL Encyclopedia of English Language Teaching_. Oxford, UK/Hoboken, NJ: Wiley-Blackwell
 
-Liu, Dilin & Lei, Lei. 2018. Using Corpora to Teach Vocabulary. In J. Liontas (Ed.), TESOL Encyclopedia of English Language Teaching. Oxford, UK/Hoboken, NJ: Wiley-Blackwell
+Liu, Dilin & Lei, Lei. 2018. Using Corpora to Teach Vocabulary. In J. Liontas (Ed.), _TESOL Encyclopedia of English Language Teaching_. Oxford, UK/Hoboken, NJ: Wiley-Blackwell
 
 
 ### Book reviews
