@@ -190,11 +190,11 @@ Lei, Lei. 2012. Review of Quantitative Linguistic Computing with Perl. Literary 
 
 ### Journal articles and book reviews in Chinese
 
+李辛、雷蕾. 2021. 输出任务对英语阅读中词汇附带习得影响的元分析. 解放军外国语学院学报. (CSSCI)
+
 施雅倩、雷蕾. 2020. 通用英语口语词表. 中国ESP研究.
 
 刘迪麟、雷蕾. 2020. 学术词表研究综述. 外语教学. 41(2): 34-38+50. (CSSCI)
-
-李辛、雷蕾. 2020. 输出任务对英语阅读中词汇附带习得影响的元分析. 解放军外国语学院学报. (CSSCI)
 
 雷蕾. 2019. 语言学领域高被引论文: 文献计量分析. 当代外语研究. 1:67-76.
 
