@@ -20,7 +20,7 @@ My publications appeared in journals such as _Applied Linguistics_, _Journal of 
 
 ## Auguest 2021
 
-New Article published in Applied Linguistics
+**New Article published in Applied Linguistics**
 
 Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A large-scale diachronic study in life sciences across 50 years. _Applied Linguistics_, 1-25. https://doi.org/10.1093/applin/amab037
 
