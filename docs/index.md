@@ -29,7 +29,7 @@ Shi, Yaqian, & Lei, Lei*. 2021. Lexical use and social class: A study from the p
 
 Lexical use is an important indicator of an individual’s social class, and previous studies found that speakers from different social classes show distinct features in their lexical use. However, those studies are more qualitative in nature and the findings are far from conclusive. To address these issues, this study examined the lexical features of the utterances produced by speakers from different social classes in terms of lexical richness, word length, and word class based on a large dataset of spontaneous utterances, i.e., Spoken British National Corpus 2014. The analysis yielded several interesting findings. First, speakers from the middle and upper-middle classes produce utterances of a higher lexical richness than those from the lower class. Second, individuals from all social classes tend to produce utterances of a lower lexical richness and with shorter words in spoken language than they do in writing, which indicates the spontaneous nature of spoken language. Third, speakers from the middle and upper middle classes have similar lexical features such as the more frequent use of derived -ly adverbs (particularly intensifiers), conjunctions, and prepositions. In contrast, those from the lower class use more negative words and first-person singular pronouns. Such differences are explained by factors closely related to the speakers’ social class backgrounds.
 
-## Auguest 2021
+## August 2021
 
 **Article published in _Applied Linguistics_**
 
