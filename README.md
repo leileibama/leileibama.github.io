@@ -1,4 +1,4 @@
 
-Go to take a look at my hompage:
+## Go to take a look at my hompage:
 
-leileibama.github.io
+[My Homepage](https://leileibama.github.io/)
