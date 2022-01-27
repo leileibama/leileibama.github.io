@@ -1,9 +1,9 @@
-## Welcome to Lei Lei's Homepage
+# Welcome to Lei Lei's Homepage
 
 ![image](https://user-images.githubusercontent.com/36074445/151327479-b4972925-774d-4955-b825-497ccda9ec05.png)
 
 
-## Hello
+# Hello
 
 Hi, I am Lei Lei. I am Professor of Applied Linguistics at the Department of English, Shanghai Jiao Tong University (SJTU). I joined SJTU in December 2020, and before that I worked as Assistant Professor, Associate Professor, and Professor at Huazhong University of Science and Technology (HUST) from 1997. I also worked as Visiting Scholar at the University of Alabama (2014-2015) and the University of Nebraska, Lincoln (2017).  
 
@@ -13,13 +13,13 @@ My research interest include corpus-driven analyses of second language writing a
 
 My publications appeared in journals such as _Applied Linguistics_, _Journal of English for Academic Purposes_, _System_, _Lingua_, and _Scientometrics_. I also published books at publishing houses such as Cambridge University Press and TESOL Press. 
 
-## Contact
+# Contact
 
 My Email address: leileibama &AT& outlook &DOT& com
 
 My github: https://github.com/leileibama/
 
-## Service
+# Service
 
 Editorial Board: 
 
@@ -28,15 +28,15 @@ _Journal of English for Academic Purposes_
 _Internaltional Journal of English for Academic Purposes: Research and Practice_
 
 
-## My Publications
+# My Publications
 
-### Books
+## Books
 
 Lei, Lei & Liu, Dilin. 2021. _Conducting Sentiment Analysis_. Cambridge: Cambridge University Press.
 
 Liu, Dilin & Lei, Lei. 2017. _Using Corpora for Language Learning and Teaching_. Alexandria, VA: TESOL Press.
 
-### Books in Chinese
+## Books in Chinese
 
 雷蕾. 2020. 基于Python的语料库数据处理. 北京: 科学出版社.
 
@@ -48,9 +48,9 @@ Liu, Dilin & Lei, Lei. 2017. _Using Corpora for Language Learning and Teaching_.
 
 雷蕾、洪班信. 2006. 医学英语句子的结构特征. 北京大学医学出版社.
 
-### Journal articles (* Corresponding author)
+## Journal articles (* Corresponding author)
 
-#### 2021
+### 2021
 
 Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A large-scale diachronic study in life sciences across 50 years. _Applied Linguistics_, 1-25. https://doi.org/10.1093/applin/amab037 (SSCI)
 
@@ -60,7 +60,7 @@ Zhu, Haoran & Lei, Lei*. 2021, A dependency-based machine learning approach to t
 
 Liu, Wenjun, & Lei, Lei*. 2021. Retractions in the middle east from 1999 to 2018: a bibliometric analysis. _Scientometrics_. 1-14. (SSCI)
 
-#### 2020
+### 2020
 
 Lei, Lei, Deng, Yaochen* & Liu, Dilin, 2020. Examining research topics with a dependency-based noun phrase extraction method: a case in accounting. _Library Hi Tech_. 1-13. 10.1108/LHT-12-2019-0247. (SSCI)
 
@@ -80,7 +80,7 @@ Lei, Lei & Sun, Yunmei*. 2020. Should highly cited items be excluded for impact 
 
 Li, Jing, Lei, Lei*, & Cheng, Le. 2020. Mapping evaluation, appraisal and stance in discourse (2000–2015): A bibliometric analysis. _Glottotheory_, 10(1-2), 31–55. https://doi.org/10.1515/glot-2019-0002
 
-#### 2019
+### 2019
 
 Lei, Lei., & Wen, Ju*. 2019. Is dependency distance experiencing a process of minimization? A diachronic study based on the State of the Union addresses. _Lingua_, S002438411930511X. https://doi.org/10.1016/j.lingua.2019.102762 (SSCI)
 
@@ -90,7 +90,7 @@ Li, Xin, & Lei Lei*. 2019. A bibliometric analysis of topic modelling studies (2
 
 Lei, Lei, & Liu, Dilin*. 2019. The research trends and contributions of System’s publications over the past four decades (1973–2017): A bibliometric analysis. _System_. 80:1-13. https://doi.org/10.1016/j.system.2018.10.003 (SSCI)
 
-#### 2018
+### 2018
 
 Wei, Yaoyu, & Lei, Lei*. 2018. Institution bias in the New England Journal of Medicine? A bibliometric analysis of publications (1997-2016). _Scientometrics_. 117(3):1771–1775. (SSCI)
 
@@ -108,7 +108,7 @@ Zhu, Haoran, & Lei, Lei*. 2018. British Cultural Complexity: An Entropy-based Ap
 
 Lei, Lei*, & Zhang, Ying. 2018. Lack of Improvement in Scientific Integrity: An Analysis of WoS Retractions by Chinese Researchers (1997–2016). _Science and Engineering Ethics_. 24(5): 1409-1420. doi:10.1007/s11948-017-9962-7 (SSCI)
 
-#### 2017
+### 2017
 
 Wu, Xue, & Lei, Lei*. 2017. Pragmatic force modifiers in ELF academic discussions. _Poznań Studies in Contemporary Linguistics_. 53(3): 423–448 (SSCI)
 
@@ -116,7 +116,7 @@ Liao, Shengyu, & Lei, Lei*. 2017. What we talk about when we talk about corpus: 
 
 Lei, Lei*, & Liao, Shengyu. 2017. Publications in linguistics journals from Mainland China, Hong Kong, Taiwan, and Macau (2003–2012): A bibliometric analysis. _Journal of Quantitative Linguistics_. 24(1): 54-64. (SSCI)
 
-#### 2016
+### 2016
 
 Lei, Lei*, & Yan, Sheng. 2016. Readability and citations in information science: evidence from abstracts and articles of four journals (2003 - 2012). _Scientometrics_. 108(3):1155–1169. (SSCI)
 
@@ -126,7 +126,7 @@ Lei, Lei, & Liu, Dilin*. 2016. A new medical academic word list: A corpus-based 
 
 Wu, Xue*, & Lei, Lei. 2016. Functions of you know and I mean in academic seminar discussions by ELF speakers. _Chinese Journal of Applied Linguistics_. 39(3):288-303.
 
-#### 2007 - 2014
+### 2007 - 2014
 
 Lei, Lei & Liu, Zehua*. 2014. A word type-based quantitative study on the lexical change of American and British English. _Journal of Quantitative Linguistics_. 21(1), 36-49. (SSCI)
 
@@ -145,7 +145,7 @@ Lei, Lei*. 2008. Use of idioms in Chinese EFL learners’ spoken English: Eviden
 Lei, Lei* & Wei, Yao. 2007. An empirical study on writer’s block of Chinese EFL learners at the tertiary level. _Teaching English in China_. 30(5): 13-18.
 
 
-### Book chapters
+## Book chapters
 
 Liu, Dilin & Lei, Lei. 2020. Technical vocabulary. In Webb, Stuart (Ed), _The Routledge Handbook of Vocabulary Studies_. New York: Routledge
 
@@ -156,7 +156,7 @@ Liu, Dilin & Lei, Lei. 2018. Teaching location in time and other metaphorical se
 Liu, Dilin & Lei, Lei. 2018. Using Corpora to Teach Vocabulary. In J. Liontas (Ed.), _TESOL Encyclopedia of English Language Teaching_. Oxford, UK/Hoboken, NJ: Wiley-Blackwell
 
 
-### Book reviews
+## Book reviews
 
 Zhu, Haoran & Lei, Lei. 2021. Review of Quantitative Analysis of Dependency Structures (Quantitative Linguistics 72). Journal of Linguistics. 1–4. doi:10.1017/S0022226721000050 (SSCI)
 
@@ -188,7 +188,7 @@ Lei, Lei. 2013. Review of Collocation: Applications and Implications. System. 41
 
 Lei, Lei. 2012. Review of Quantitative Linguistic Computing with Perl. Literary and Linguistic Computing. 27(2):227-230. (SSCI)
 
-### Journal articles and book reviews in Chinese
+## Journal articles and book reviews in Chinese
 
 李辛、雷蕾. 2021. 输出任务对英语阅读中词汇附带习得影响的元分析. 解放军外国语学院学报. (CSSCI)
 
