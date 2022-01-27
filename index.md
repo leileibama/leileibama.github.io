@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/36074445/151327479-b4972925-774d-4955-b825-497ccda9ec05.png)
 
 
-### Hello
+## Hello
 
 Hi, I am Lei Lei. I am Professor of Applied Linguistics at the Department of English, Shanghai Jiao Tong University (SJTU). I joined SJTU in December 2020, and before that I worked as Assistant Professor, Associate Professor, and Professor at Huazhong University of Science and Technology (HUST) from 1997. I also worked as Visiting Scholar at the University of Alabama (2014-2015) and the University of Nebraska, Lincoln (2017).  
 
@@ -18,6 +18,14 @@ My publications appeared in journals such as _Applied Linguistics_, _Journal of 
 My Email address: leileibama &AT& outlook &DOT& com
 
 My github: https://github.com/leileibama/
+
+## Service
+
+Editorial Board: 
+
+_Journal of English for Academic Purposes_
+
+_Internaltional Journal of English for Academic Purposes: Research and Practice_
 
 
 ## My Publications
