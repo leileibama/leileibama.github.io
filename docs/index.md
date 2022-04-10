@@ -19,6 +19,13 @@ My publications appeared in journals such as _Applied Linguistics_, _Journal of 
 
 # News
 
+## April 2022
+
+**Article published in _Sage Open_**
+
+Zhu, Haoran & Lei, Lei*. 2022. The Research Trends of Text Classification Studies (2000–2020): A Bibliometric Analysis. _Sage Open_. 1-16. https://doi.org/10.1177/21582440221089963. (SSCI)
+
+
 ## October 2021
 
 **Article published in _Lingua_**
