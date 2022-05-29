@@ -19,22 +19,24 @@ My publications appeared in journals such as _Applied Linguistics_, _Journal of 
 
 # News
 
+## May 2022
+
+**Article published in _Lingua_**
+
+Liu, K., Liu, Z., & Lei, L. (2022). Simplification in translated Chinese: An entropy-based approach. *Lingua*, 275, 103364, pp.1-14. https://doi.org/10.1016/j.lingua.2022.103364 (SSCI)
+
+Abstract
+For a long time, translation researchers, particularly those working in corpus-based translation studies, have held the presumption that translated texts tend to be simpler in lexical and syntactical features than non-translated native texts. Such claims have led to the formulation of the simplification universal hypothesis in translation studies. However, this line of research which focuses predominantly on the investigation of individual linguistic features has failed to provide sufficient evidence to confirm the existence of the simplification universal. To a large extent, the lack of global quantitative indicators for evaluating the complexity level of the translated and non-translated texts has hindered progress in this field. The current study, using entropy as an indicator, analysed the linguistic complexity between translated and native Chinese from the information-theoretical perspective. Our research found that translational Chinese tends to be simpler than its non-translated counterpart at the lexical level based on unigram entropy, but not the syntactic level based on part-of-speech entropy. Our study has confirmed the use of entropy as a reliable measure for lexical and syntactic complexity in the field of translation studies.
+
+***
+
 ## April 2022
 
 **Article published in _Sage Open_**
 
 Zhu, Haoran & Lei, Lei*. 2022. The Research Trends of Text Classification Studies (2000–2020): A Bibliometric Analysis. _Sage Open_. 1-16. https://doi.org/10.1177/21582440221089963. (SSCI)
 
-
-## October 2021
-
-**Article published in _Lingua_**
-
-Shi, Yaqian, & Lei, Lei*. 2021. Lexical use and social class: A study from the perspectives of lexical richness, word length, and word class. _Lingua_, 262, 103155, 1-14. https://doi.org/10.1016/j.lingua.2021.103155 (SSCI)
-
-**Abstract**
-
-Lexical use is an important indicator of an individual’s social class, and previous studies found that speakers from different social classes show distinct features in their lexical use. However, those studies are more qualitative in nature and the findings are far from conclusive. To address these issues, this study examined the lexical features of the utterances produced by speakers from different social classes in terms of lexical richness, word length, and word class based on a large dataset of spontaneous utterances, i.e., Spoken British National Corpus 2014. The analysis yielded several interesting findings. First, speakers from the middle and upper-middle classes produce utterances of a higher lexical richness than those from the lower class. Second, individuals from all social classes tend to produce utterances of a lower lexical richness and with shorter words in spoken language than they do in writing, which indicates the spontaneous nature of spoken language. Third, speakers from the middle and upper middle classes have similar lexical features such as the more frequent use of derived -ly adverbs (particularly intensifiers), conjunctions, and prepositions. In contrast, those from the lower class use more negative words and first-person singular pronouns. Such differences are explained by factors closely related to the speakers’ social class backgrounds.
+***
 
 ## August 2021
 
@@ -46,7 +48,7 @@ Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A l
 
 Recent studies found linguistic positivity bias in academic writing, that is, researchers tend to present their works with more positive words than negative ones. The present study aims to examine the issue from a diachronic perspective, and it is probably the first one that employed a mixed method of both a small lexicon analysis and sentiment analysis in this line of research. Specifically, a series of experiments were performed based on a corpus of 775,460 abstracts published between 1969 and 2019 in 123 scientific journals covering 12 research disciplines in life sciences. The results demonstrated a linguistic positivity bias in academic writing. More importantly, a significant upward trend of linguistic positivity bias was observed over the past 5 decades. Major communicative functions of positive and negative sentences are also analysed. Reasons for this linguistic positivity bias are explored from the perspectives of publication pressure/bias, employment of linguistic devices to promote research, and language use for political correctness purposes. Lastly, implications for authors and learners of academic writing and for researchers of sentiment analysis are also discussed.
 
-
+***
 
 ![image](https://user-images.githubusercontent.com/36074445/151353188-7e5a5f4a-c851-4af1-99df-e56c87741f66.png)
 
