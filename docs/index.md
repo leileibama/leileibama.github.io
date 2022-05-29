@@ -76,6 +76,13 @@ How can you use corpora in your classroom? With the increasing use of corpora in
 
 (* Corresponding author)
 
+**2022**
+
+Liu, Kanglong, Liu, Zhongzhu, & Lei, Lei*. (2022). Simplification in translated Chinese: An entropy-based approach. *Lingua*, 275, 103364, pp.1-14. https://doi.org/10.1016/j.lingua.2022.103364 (SSCI)
+
+Zhu, Haoran & Lei, Lei*. 2022. The Research Trends of Text Classification Studies (2000–2020): A Bibliometric Analysis. _Sage Open_. 1-16. https://doi.org/10.1177/21582440221089963. (SSCI)
+
+
 **2021**
 
 Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A large-scale diachronic study in life sciences across 50 years. _Applied Linguistics_, 1-25. https://doi.org/10.1093/applin/amab037 (SSCI)
