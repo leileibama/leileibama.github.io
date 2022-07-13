@@ -5,7 +5,6 @@
 
 # Hello
 
-
 Hi, I am Lei Lei (雷蕾). I am Professor of Applied Linguistics at the Institute of Corpus Studies and Applications, Shanghai International Studies University (SISU). Before I joined SISU, I worked at Shanghai Jiao Tong University (SJTU) and Huazhong University of Science and Technology (HUST). I also worked as Visiting Scholar at the University of Alabama (2014-2015) and the University of Nebraska, Lincoln (2017).  
 
 I obtained my PhD in Applied Linguistics from SJTU in 2010, my MA in Applied Linguistics from HUST in 2006, and my BA in English from Central China Normal University (CCNU) in 1997. 
@@ -28,7 +27,7 @@ Lei, Lei & Qin, Jie*. 2022. Research in foreign language teaching and learning i
 
 This article reviews selected research on foreign language teaching and learning published in local, high-impact journals in China over the past ten years (2012–2021). A bibliometric analysis was conducted to elicit the most frequently researched topics in the field, which were grouped into four categories, that is, language learning and use, language pedagogy, language learners and teachers, and Teaching English as a Foreign Language approaches/theories, and a number of sub-categories. This was then followed by an in-depth and critical review of 71 studies corresponding to those categories and sub-categories. The review concluded with a discussion of inadequacies and recommendations for future research. It is hoped that a review on the experience of Chinese practitioners and researchers’ efforts to promote foreign language education may contribute to language teaching research and development in the international field.
 
-
+***
 
 ## July 2022
 
