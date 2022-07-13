@@ -69,6 +69,7 @@ https://doi.org/10.1017/9781108909679
 
 This Element provides a basic introduction to sentiment analysis, aimed at helping students and professionals in corpus linguistics to understand what sentiment analysis is, how it is conducted, and where it can be applied. It begins with a definition of sentiment analysis and a discussion of the domains where sentiment analysis is conducted and used the most. Then, it introduces two main methods that are commonly used in sentiment analysis known as supervised machine-learning and unsupervised learning (or lexicon-based) methods, followed by a step-by-step explanation of how to perform sentiment analysis with R. The Element then provides two detailed examples or cases of sentiment and emotion analysis, with one using an unsupervised method and the other using a supervised learning method.
 
+***
 
 **Liu, Dilin & Lei, Lei. 2017. _Using Corpora for Language Learning and Teaching_. Alexandria, VA: TESOL Press.**
 
@@ -76,6 +77,7 @@ https://bookstore.tesol.org/using-corpora-for-language-teaching-and-learning-pro
 
 How can you use corpora in your classroom? With the increasing use of corpora in classrooms, the need to understand how to use corpora in language teaching is essential for today’s teachers. Using ample concrete examples, this book offers a step-by-step hands-on introduction to the use of corpora for teaching a variety of English language skills, such as grammar, vocabulary, and English academic writing. Using Corpora for Language Teaching and Learning offers a detailed discussion of basic essential corpus search and teaching procedures and activities, instructions on how to develop your own corpora for language instruction and research purposes, practical ideas about how to use corpora to develop teaching materials, and an annotated list of useful corpora and corpus tools (online). Gaining familiarity with how to use learner corpora will enable you to have a deeper understanding of your students’ learning and challenges.
 
+***
 
 ## Articles 
 
@@ -93,6 +95,7 @@ Liu, Kanglong, Liu, Zhongzhu, & Lei, Lei*. (2022). Simplification in translated 
 
 Zhu, Haoran & Lei, Lei*. 2022. The Research Trends of Text Classification Studies (2000–2020): A Bibliometric Analysis. _Sage Open_. 1-16. https://doi.org/10.1177/21582440221089963. (SSCI)
 
+***
 
 **2021**
 
@@ -103,6 +106,8 @@ Shi, Yaqian, & Lei, Lei*. 2021. Lexical use and social class: A study from the p
 Zhu, Haoran & Lei, Lei*. 2021, A dependency-based machine learning approach to the identification of research topics: a case in COVID-19 studies, _Library Hi Tech_, 1-21. (SSCI)
 
 Liu, Wenjun, & Lei, Lei*. 2021. Retractions in the middle east from 1999 to 2018: a bibliometric analysis. _Scientometrics_. 1-14. (SSCI)
+
+***
 
 **2020**
 
@@ -124,6 +129,8 @@ Lei, Lei & Sun, Yunmei*. 2020. Should highly cited items be excluded for impact 
 
 Li, Jing, Lei, Lei*, & Cheng, Le. 2020. Mapping evaluation, appraisal and stance in discourse (2000–2015): A bibliometric analysis. _Glottotheory_, 10(1-2), 31–55. https://doi.org/10.1515/glot-2019-0002
 
+***
+
 **2019**
 
 Lei, Lei., & Wen, Ju*. 2019. Is dependency distance experiencing a process of minimization? A diachronic study based on the State of the Union addresses. _Lingua_, S002438411930511X. https://doi.org/10.1016/j.lingua.2019.102762 (SSCI)
@@ -133,6 +140,8 @@ Shi, Yaqian, & Lei, Lei*. 2019. The evolution of LGBT labelling words: Tracking 
 Li, Xin, & Lei Lei*. 2019. A bibliometric analysis of topic modelling studies (2000–2017). _Journal of Information Science_. 1-15. https://doi.org/10.1177/0165551519877049 (SSCI)
 
 Lei, Lei, & Liu, Dilin*. 2019. The research trends and contributions of System’s publications over the past four decades (1973–2017): A bibliometric analysis. _System_. 80:1-13. https://doi.org/10.1016/j.system.2018.10.003 (SSCI)
+
+***
 
 **2018**
 
@@ -152,6 +161,8 @@ Zhu, Haoran, & Lei, Lei*. 2018. British Cultural Complexity: An Entropy-based Ap
 
 Lei, Lei*, & Zhang, Ying. 2018. Lack of Improvement in Scientific Integrity: An Analysis of WoS Retractions by Chinese Researchers (1997–2016). _Science and Engineering Ethics_. 24(5): 1409-1420. doi:10.1007/s11948-017-9962-7 (SSCI)
 
+***
+
 **2017**
 
 Wu, Xue, & Lei, Lei*. 2017. Pragmatic force modifiers in ELF academic discussions. _Poznań Studies in Contemporary Linguistics_. 53(3): 423–448 (SSCI)
@@ -159,6 +170,8 @@ Wu, Xue, & Lei, Lei*. 2017. Pragmatic force modifiers in ELF academic discussion
 Liao, Shengyu, & Lei, Lei*. 2017. What we talk about when we talk about corpus: a bibliometric analysis of corpus-related research in linguistics (2000-2015). _Glottometrics_. 38: 1-20.
 
 Lei, Lei*, & Liao, Shengyu. 2017. Publications in linguistics journals from Mainland China, Hong Kong, Taiwan, and Macau (2003–2012): A bibliometric analysis. _Journal of Quantitative Linguistics_. 24(1): 54-64. (SSCI)
+
+***
 
 **2016**
 
@@ -169,6 +182,8 @@ Lei, Lei*. 2016. When science meets cluttered writing: Adjectives and adverbs in
 Lei, Lei, & Liu, Dilin*. 2016. A new medical academic word list: A corpus-based study with enhanced methodology. _Journal of English for Academic Purposes_. 22:42-53. (SSCI)
 
 Wu, Xue*, & Lei, Lei. 2016. Functions of you know and I mean in academic seminar discussions by ELF speakers. _Chinese Journal of Applied Linguistics_. 39(3):288-303.
+
+***
 
 **2007 - 2014**
 
@@ -188,6 +203,7 @@ Lei, Lei*. 2008. Use of idioms in Chinese EFL learners’ spoken English: Eviden
 
 Lei, Lei* & Wei, Yao. 2007. An empirical study on writer’s block of Chinese EFL learners at the tertiary level. _Teaching English in China_. 30(5): 13-18.
 
+***
 
 ## Book chapters
 
@@ -199,6 +215,7 @@ Liu, Dilin & Lei, Lei. 2018. Teaching location in time and other metaphorical se
 
 Liu, Dilin & Lei, Lei. 2018. Using Corpora to Teach Vocabulary. In J. Liontas (Ed.), _TESOL Encyclopedia of English Language Teaching_. Oxford, UK/Hoboken, NJ: Wiley-Blackwell
 
+***
 
 ## Book reviews
 
@@ -232,6 +249,8 @@ Lei, Lei. 2013. Review of Collocation: Applications and Implications. System. 41
 
 Lei, Lei. 2012. Review of Quantitative Linguistic Computing with Perl. Literary and Linguistic Computing. 27(2):227-230. (SSCI)
 
+***
+
 # Publications in Chinese
 
 **Books**
@@ -245,6 +264,8 @@ Lei, Lei. 2012. Review of Quantitative Linguistic Computing with Perl. Literary 
 洪班信、雷蕾. 2008. 英语医学论文及摘要写作. 北京大学医学出版社.
 
 雷蕾、洪班信. 2006. 医学英语句子的结构特征. 北京大学医学出版社.
+
+***
 
 **Articles**
 
@@ -294,6 +315,7 @@ Lei, Lei. 2012. Review of Quantitative Linguistic Computing with Perl. Literary 
 
 韦瑶瑜，雷蕾，2004. 中国英语学习者使用SIB材料的调查报告，外语电化教学，第2期。(CSSCI)
 
+***
 
 # My tools
 
@@ -319,13 +341,15 @@ A package that postags and lemmatizes English texts in a folder
 
 https://github.com/leileibama/leolemmatizer
 
-
+***
 
 # Contact
 
 My Email address: leileibama &AT& outlook &DOT& com
 
 My github: https://github.com/leileibama/
+
+***
 
 # Service
 
