@@ -6,7 +6,7 @@
 # Hello
 
 
-Hi, I am Lei Lei (雷蕾). I am Professor of Applied Linguistics at the Department of English, Shanghai Jiao Tong University (SJTU). I joined SJTU in December 2020, and before that I worked as Assistant Professor, Associate Professor, and Professor at Huazhong University of Science and Technology (HUST) from 1997. I also worked as Visiting Scholar at the University of Alabama (2014-2015) and the University of Nebraska, Lincoln (2017).  
+Hi, I am Lei Lei (雷蕾). I am Professor of Applied Linguistics at the Institute of Corpus Studies and Applications, Shanghai International Studies University (SISU). Before I joined SISU, I worked at Shanghai Jiao Tong University (SJTU) and Huazhong University of Science and Technology (HUST). I also worked as Visiting Scholar at the University of Alabama (2014-2015) and the University of Nebraska, Lincoln (2017).  
 
 I obtained my PhD in Applied Linguistics from SJTU in 2010, my MA in Applied Linguistics from HUST in 2006, and my BA in English from Central China Normal University (CCNU) in 1997. 
 
@@ -14,10 +14,34 @@ I obtained my PhD in Applied Linguistics from SJTU in 2010, my MA in Applied Lin
 
 My **research interests** include corpus-driven analyses of second language writing and (academic) English, particulary those based on natural language processing techniques. I am also interested in the use of bibliometric methods for the exploration of scientific literature in various disciplines.
 
-My publications appeared in journals such as _Applied Linguistics_, _Journal of English for Academic Purposes_, _System_, _Lingua_, and _Scientometrics_. I also published books at publishing houses such as Cambridge University Press and TESOL Press. 
-
+My publications appeared in journals such as _Applied Linguistics_, _Language Teaching_, _Journal of English for Academic Purposes_, _System_, _Lingua_, and _Scientometrics_. I also published books at publishing houses such as Cambridge University Press and TESOL Press. 
 
 # News
+
+## July 2022
+
+**Article published in _Language Teaching_**
+
+Lei, Lei & Qin, Jie*. 2022. Research in foreign language teaching and learning in China (2012–2021). Language Teaching. 1–27. 10.1017/S0261444822000155.
+
+**Abstract**
+
+This article reviews selected research on foreign language teaching and learning published in local, high-impact journals in China over the past ten years (2012–2021). A bibliometric analysis was conducted to elicit the most frequently researched topics in the field, which were grouped into four categories, that is, language learning and use, language pedagogy, language learners and teachers, and Teaching English as a Foreign Language approaches/theories, and a number of sub-categories. This was then followed by an in-depth and critical review of 71 studies corresponding to those categories and sub-categories. The review concluded with a discussion of inadequacies and recommendations for future research. It is hoped that a review on the experience of Chinese practitioners and researchers’ efforts to promote foreign language education may contribute to language teaching research and development in the international field.
+
+
+
+## July 2022
+
+**Article published in _Scientometrics_**
+
+Wen, Ju & Lei, Lei*. 2022. Adjectives and adverbs in life sciences across 50 years: implications for emotions and readability in academic texts. Scientometrics. 10.1007/s11192-022-04453-z.
+
+**Abstract**
+
+Writing in a clear and simple language is critical for scientific communications. Previous studies argued that the use of adjectives and adverbs cluttered writing and made scientific text less readable. The present study aims to investigate if the articles in life sciences have become more cluttered and less readable across the past 50 years in terms of the use of adjectives and adverbs. The data that were used in the study were a large dataset of 775,456 scientific texts published between 1969 and 2019 in 123 scientific journals. Results showed that an increasing number of adjectives and adverbs were used and the readability of scientific texts have decreased in the examined years. More importantly, the use of emotion adjectives and adverbs also demonstrated an upward trend while that of nonemotion adjectives and adverbs did not increase. To our knowledge, this is probably the first large scale diachronic study on the use of adjectives and adverbs in scientific writing. Possible explanations to these findings were discussed.
+
+
+***
 
 ## May 2022
 
@@ -25,28 +49,10 @@ My publications appeared in journals such as _Applied Linguistics_, _Journal of 
 
 Liu, K., Liu, Z., & Lei, L. (2022). Simplification in translated Chinese: An entropy-based approach. *Lingua*, 275, 103364, pp.1-14. https://doi.org/10.1016/j.lingua.2022.103364 (SSCI)
 
-Abstract
-For a long time, translation researchers, particularly those working in corpus-based translation studies, have held the presumption that translated texts tend to be simpler in lexical and syntactical features than non-translated native texts. Such claims have led to the formulation of the simplification universal hypothesis in translation studies. However, this line of research which focuses predominantly on the investigation of individual linguistic features has failed to provide sufficient evidence to confirm the existence of the simplification universal. To a large extent, the lack of global quantitative indicators for evaluating the complexity level of the translated and non-translated texts has hindered progress in this field. The current study, using entropy as an indicator, analysed the linguistic complexity between translated and native Chinese from the information-theoretical perspective. Our research found that translational Chinese tends to be simpler than its non-translated counterpart at the lexical level based on unigram entropy, but not the syntactic level based on part-of-speech entropy. Our study has confirmed the use of entropy as a reliable measure for lexical and syntactic complexity in the field of translation studies.
-
-***
-
-## April 2022
-
-**Article published in _Sage Open_**
-
-Zhu, Haoran & Lei, Lei*. 2022. The Research Trends of Text Classification Studies (2000–2020): A Bibliometric Analysis. _Sage Open_. 1-16. https://doi.org/10.1177/21582440221089963. (SSCI)
-
-***
-
-## August 2021
-
-**Article published in _Applied Linguistics_**
-
-Wen, Ju and Lei, Lei*. 2021. Linguistic positivity bias in academic writing: A large-scale diachronic study in life sciences across 50 years. _Applied Linguistics_, 1-25. https://doi.org/10.1093/applin/amab037
-
 **Abstract**
 
-Recent studies found linguistic positivity bias in academic writing, that is, researchers tend to present their works with more positive words than negative ones. The present study aims to examine the issue from a diachronic perspective, and it is probably the first one that employed a mixed method of both a small lexicon analysis and sentiment analysis in this line of research. Specifically, a series of experiments were performed based on a corpus of 775,460 abstracts published between 1969 and 2019 in 123 scientific journals covering 12 research disciplines in life sciences. The results demonstrated a linguistic positivity bias in academic writing. More importantly, a significant upward trend of linguistic positivity bias was observed over the past 5 decades. Major communicative functions of positive and negative sentences are also analysed. Reasons for this linguistic positivity bias are explored from the perspectives of publication pressure/bias, employment of linguistic devices to promote research, and language use for political correctness purposes. Lastly, implications for authors and learners of academic writing and for researchers of sentiment analysis are also discussed.
+For a long time, translation researchers, particularly those working in corpus-based translation studies, have held the presumption that translated texts tend to be simpler in lexical and syntactical features than non-translated native texts. Such claims have led to the formulation of the simplification universal hypothesis in translation studies. However, this line of research which focuses predominantly on the investigation of individual linguistic features has failed to provide sufficient evidence to confirm the existence of the simplification universal. To a large extent, the lack of global quantitative indicators for evaluating the complexity level of the translated and non-translated texts has hindered progress in this field. The current study, using entropy as an indicator, analysed the linguistic complexity between translated and native Chinese from the information-theoretical perspective. Our research found that translational Chinese tends to be simpler than its non-translated counterpart at the lexical level based on unigram entropy, but not the syntactic level based on part-of-speech entropy. Our study has confirmed the use of entropy as a reliable measure for lexical and syntactic complexity in the field of translation studies.
+
 
 ***
 
@@ -78,7 +84,13 @@ How can you use corpora in your classroom? With the increasing use of corpora in
 
 **2022**
 
-Liu, Kanglong, Liu, Zhongzhu, & Lei, Lei*. (2022). Simplification in translated Chinese: An entropy-based approach. *Lingua*, 275, 103364, pp.1-14. https://doi.org/10.1016/j.lingua.2022.103364 (SSCI)
+Lei, Lei, Deng, Yaochen, & Liu, Dilin*. Accepted. Research on the learning/teaching in L2 listening: A bibliometric review and its implications. _Studies in Second Language Learning and Teaching_. (SSCI)
+
+Lei, Lei & Qin, Jie*. 2022. Research in foreign language teaching and learning in China (2012–2021). _Language Teaching_. 1–27. 10.1017/S0261444822000155. (SSCI)
+
+Wen, Ju & Lei, Lei*. 2022. Adjectives and adverbs in life sciences across 50 years: implications for emotions and readability in academic texts. _Scientometrics_. 10.1007/s11192-022-04453-z. (SSCI)
+
+Liu, Kanglong, Liu, Zhongzhu, & Lei, Lei*. (2022). Simplification in translated Chinese: An entropy-based approach. _Lingua_, 275, 103364, pp.1-14. https://doi.org/10.1016/j.lingua.2022.103364 (SSCI)
 
 Zhu, Haoran & Lei, Lei*. 2022. The Research Trends of Text Classification Studies (2000–2020): A Bibliometric Analysis. _Sage Open_. 1-16. https://doi.org/10.1177/21582440221089963. (SSCI)
 
